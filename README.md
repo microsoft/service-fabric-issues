@@ -12,7 +12,7 @@ The [Azure Feedback Forum for Service Fabric][uservoice-forum] is the best place
 
 ## Azure.com conceptual documentation comments via Disqus
 
-The Disqus-based comment threads on the [Service Fabric conceptual documentation][acom-docs] are the right place to report errors in the documentation itself or to report issues that occurred while following along with a given article. If the issue you're encountering turns out to be a product bug, we will transfer it to the issues list in this repo and link to it in the Disqus thread.
+The comment threads on the [Service Fabric conceptual documentation][acom-docs] are the right place to report errors in the documentation itself or to report issues that occurred while following along with a given article. If the issue you're encountering turns out to be a product bug, we will transfer it to the issues list in this repo and link to it in the Disqus thread.
 
 ## GitHub repos for Service Fabric samples
 
