@@ -4,6 +4,7 @@ This repo is intended for reporting and tracking general issues and small featur
 
  - [Reliable Services and Reliable Actors](https://github.com/Azure/service-fabric-services-and-actors-dotnet)
  - [ASP.NET Core Service Fabric integration](https://github.com/Azure/service-fabric-aspnetcore) 
+ - [Service Fabric CLI](https://github.com/Azure/service-fabric-cli/issues)
 
 
 We are also actively monitoring the following forums and recommend that you use them as described below:
