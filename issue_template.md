@@ -1,3 +1,6 @@
+<!--- If you only want to ask a query/question, feel free to remove the below template.
+      For bugs/issues, please fill as many fields as possible. --->
+
 <!--- Provide a general summary of the issue -->
 
 
