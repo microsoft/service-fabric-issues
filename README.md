@@ -1,5 +1,7 @@
 # Azure Service Fabric Issues
 
+**Note:** We are in the process of moving all the issues from this repository to https://github.com/microsoft/service-fabric, where you should file any new issues pertaining to Service Fabric.
+
 This repo is intended for reporting and tracking general issues and small feature requests for Azure Service Fabric. Parts of Service Fabric are now open source. If you have issues, feature requests, or feature proposals for the parts of Service Fabric that are open source, please use those repos instead:
 
  - [Reliable Services and Reliable Actors](https://github.com/Azure/service-fabric-services-and-actors-dotnet)
